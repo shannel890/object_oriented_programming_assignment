@@ -1,3 +1,9 @@
+/* ----DETAILS------
+
+"NAME" = "SHANNEL KIRUI"
+BCS-05-0018/2025
+
+*/ 
 #include <iostream>
 using namespace std;
 
