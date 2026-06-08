@@ -1,5 +1,6 @@
 # Object-Oriented Programming Assignment — Submission README
-
+# ADMISSION == BCS-05-0018/2025
+# NAME = SHANNEL KIRUI
 This repository contains the C++ assignment for submission and grading. Your instructor/TA will grade the work on GitHub after you push your changes to the repository.
 
 **Repository Overview**
